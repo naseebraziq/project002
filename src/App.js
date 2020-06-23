@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome All <code>src/App.js</code> welcome Dear naseeb.
+          Finally deploye on surge <code>src/App.js</code> welcome Dear naseeb.
         </p>
         <a
           className="App-link"
